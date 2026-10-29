@@ -1,0 +1,5 @@
+Model,ValidationAccuracy,TestAccuracy,BestParams
+Decision Tree,0.8780952380952382,0.7777777777777778,"{'max_depth': 8, 'min_samples_leaf': 1}"
+Logistic Regression,0.8638095238095239,0.7777777777777778,{'model__C': 0.1}
+SVM,0.8504761904761906,0.8333333333333334,"{'model__C': 1, 'model__kernel': 'sigmoid'}"
+KNN,0.8057142857142857,0.6666666666666666,{'model__n_neighbors': 9}
